@@ -1,0 +1,54 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="d03c1f02f8ff52e48162f73df1030c00">sigs.asdb</database>
+    </databases>
+    <gridshown/>
+    <signallists>
+        <signallist id="0">
+        <signal>/arith_tb/clk</signal>
+        <signal>/arith_tb/operandA</signal>
+        <signal>/arith_tb/operandB</signal>
+        <signal>/arith_tb/opcode</signal>
+        <signal>/arith_tb/opcode_signed</signal>
+        <signal>/arith_tb/opcode_saturate</signal>
+        <signal>/arith_tb/result</signal>
+        <signal>/arith_tb/carry</signal>
+        <signal>/arith_tb/overflow</signal>
+        <signal>/arith_tb/zero</signal>
+        <signal>/arith_tb/saturated</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="0" end_time="101601" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="47966" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>

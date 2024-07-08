@@ -1,0 +1,1 @@
+-w -erf "C:/Users/Tommy/Desktop/ALU Homework/ALU/compile/ALU.erf" -d "C:/Users/Tommy/Desktop/ALU Homework/ALU/compile" -s "C:/Users/Tommy/Desktop/ALU Homework/library.cfg" -j "C:/Users/Tommy/Desktop/ALU Homework/ALU/projlib.cfg" -work alu -O3 -e 100 -work alu -2002 "C:/Users/Tommy/Desktop/ALU Homework/ALU/src/arith.vhd" 
